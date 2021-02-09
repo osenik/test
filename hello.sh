@@ -3,8 +3,3 @@
 echo "Hello"
 
 
-c
-a
-v
-a
-v
